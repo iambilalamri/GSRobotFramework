@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.9.1 on win32)" generated="20210306 21:45:45.320" rpa="false">
+<suite id="s1" name="GSRobotFramework" source="C:\Users\bilal\eclipse-workspace\GSRobotFramework">
+<suite id="s1-s1" name="Demonstration" source="C:\Users\bilal\eclipse-workspace\GSRobotFramework\Demonstration">
+<suite id="s1-s1-s1" name="MyFirstRobotTest" source="C:\Users\bilal\eclipse-workspace\GSRobotFramework\Demonstration\MyFirstRobotTest.robot">
+<test id="s1-s1-s1-t1" name="Hello world">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Hello Robot Framework</arg>
+</arguments>
+<status status="PASS" starttime="20210306 21:45:45.407" endtime="20210306 21:45:45.407"></status>
+</kw>
+<status status="PASS" starttime="20210306 21:45:45.406" endtime="20210306 21:45:45.407" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20210306 21:45:45.404" endtime="20210306 21:45:45.408"></status>
+</suite>
+<status status="PASS" starttime="20210306 21:45:45.402" endtime="20210306 21:45:45.409"></status>
+</suite>
+<status status="PASS" starttime="20210306 21:45:45.385" endtime="20210306 21:45:45.409"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="GSRobotFramework">GSRobotFramework</stat>
+<stat pass="1" fail="0" id="s1-s1" name="Demonstration">GSRobotFramework.Demonstration</stat>
+<stat pass="1" fail="0" id="s1-s1-s1" name="MyFirstRobotTest">GSRobotFramework.Demonstration.MyFirstRobotTest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
